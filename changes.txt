@@ -1,0 +1,4 @@
+changes made:
+1. removed code involving database 
+2. setMiss in App.js -> removed erratic addition of misses 
+3. 
